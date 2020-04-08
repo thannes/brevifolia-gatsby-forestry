@@ -14,7 +14,7 @@ Why put B vitamins in a cocktail, you ask? First, it’s delicious, and second, 
 
 <iframe width="730" height="411" src="https://www.youtube.com/embed/keOUVc_g3Yg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Where to sip the Absolut B-Boost Energy Elixir during Art Basel Miami Beach.
+## Where to sip the Absolut B-Boost Energy Elixir during Art Basel Miami Beach.
 
 The concept for this specialty cocktail was imagined and brought to life by Gary Wallach, the director of food and beverage at the Arlo Hotels. It’ll be served during Art Basel (December 2 to 8) at the Nautilus by Arlo Miami. You can also sip the cocktail while you’re getting a haircut at the Blind Barber @ Nautilus by Arlo during the week of Art Basel Miami Beach.
 
