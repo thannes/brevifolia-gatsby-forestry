@@ -1,5 +1,5 @@
 ---
-date: 2020-04-08T15:30:16Z
+date: 2020-04-08T15:30:16.000+00:00
 hero_image: "/content/images/cocktail.png"
 title: The blueberry cocktail has a hangover-proof secret ingredient.
 author: Tim Hannes
@@ -16,9 +16,11 @@ Bonus: The bountiful Bs give your immune system a boost and help your body clear
 
     <iframe width="730" height="411" src="https://www.youtube.com/embed/keOUVc_g3Yg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+{{% tip %}} Test Tip {{% /tip %}}
+
 ### Where to sip the Absolut B-Boost Energy Elixir during Art Basel Miami Beach.
 
-The concept for this specialty cocktail was imagined and brought to life by Gary Wallach, the director of food and beverage at the Arlo Hotels. It’ll be served during Art Basel (December 2 to 8) at the Nautilus by Arlo Miami. You can also sip the cocktail while you’re getting a haircut at the Blind Barber @ Nautilus by Arlo during the week of Art Basel Miami Beach. 
+The concept for this specialty cocktail was imagined and brought to life by Gary Wallach, the director of food and beverage at the Arlo Hotels. It’ll be served during Art Basel (December 2 to 8) at the Nautilus by Arlo Miami. You can also sip the cocktail while you’re getting a haircut at the Blind Barber @ Nautilus by Arlo during the week of Art Basel Miami Beach.
 
 Not headed to Miami for Art Basel? No problem. You can also create the Absolut B-Boost Energy Elixir at home.
 
