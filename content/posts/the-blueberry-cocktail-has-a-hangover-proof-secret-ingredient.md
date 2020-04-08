@@ -12,11 +12,7 @@ The recipe calls for Absolut Elyx, antioxidant-rich blueberry water, Bianco verm
 
 Why put B vitamins in a cocktail, you ask? First, it’s delicious, and second, B vitamins help power healthier hair growth through whole-body wellness. Think of the Absolut B-Boost Energy Elixir as a way to sneak in the vital B vitamins that help your cells stay energized throughout your Art Basel celebrations and holiday revelry.
 
-Bonus: The bountiful Bs give your immune system a boost and help your body clear toxins, which lowers your chances of waking up with a hangover.
-
-    <iframe width="730" height="411" src="https://www.youtube.com/embed/keOUVc_g3Yg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-{{% tip %}} Test Tip {{% /tip %}}
+<iframe width="730" height="411" src="[https://www.youtube.com/embed/keOUVc_g3Yg](https://www.youtube.com/embed/keOUVc_g3Yg "https://www.youtube.com/embed/keOUVc_g3Yg")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Where to sip the Absolut B-Boost Energy Elixir during Art Basel Miami Beach.
 
